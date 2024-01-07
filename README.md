@@ -21,8 +21,7 @@
 <p align="left">
 <a href="https://codepen.io/titancodexd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="titancodexd" height="30" width="40" /></a>
 <a href="https://twitter.com/wesley_beatz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wesley_beatz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wesley-santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley-santos" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100004397526684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004397526684" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/04aa50122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="04aa50122" height="30" width="40" /></a>
 <a href="https://instagram.com/wesleysantosbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wesleysantosbr" height="30" width="40" /></a>
 <a href="https://discord.gg/602713759865110528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="602713759865110528" height="30" width="40" /></a>
 </p>
@@ -35,6 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=titancodexd&show_icons=true&theme=dracula&locale=en" alt="titancodexd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titancodexd&theme=dark" alt="titancodexd" /></p>
-
 
 
