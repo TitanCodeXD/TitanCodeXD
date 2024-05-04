@@ -30,17 +30,9 @@
 
 <br>
 
-<div style="display: inline-block;">
-    <p style="margin-bottom: 0;">
-        <img align="right" width = "370" src="https://github-readme-streak-stats.herokuapp.com/?user=titancodexd&theme=dark" alt="titancodexd" />
-    </p>
-</div>
+<p style="margin-bottom: 0;"><img align="right" width = "370" src="https://github-readme-streak-stats.herokuapp.com/?user=titancodexd&theme=dark" alt="titancodexd" /></p>
   
-<div style="display: inline-block;">
-    <p style="margin-bottom: 0;">
-        <img align="left" width = "370" src="https://github-readme-stats.vercel.app/api?username=titancodexd&show_icons=true&theme=dark&locale=en" alt="titancodexd" />
-    </p>
-</div>
+<p style="margin-bottom: 0;"><img align="left" width = "370" src="https://github-readme-stats.vercel.app/api?username=titancodexd&show_icons=true&theme=dark&locale=en" alt="titancodexd" />
 
 
 <p style="margin-right: 100;"><img align = "center" width = "280" src="https://github-readme-stats.vercel.app/api/top-langs?username=titancodexd&show_icons=true&theme=dark&locale=en&layout=compact" alt="titancodexd" /></p>
