@@ -30,14 +30,12 @@
 
 <br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=titancodexd&theme=dark" alt="titancodexd" /></p>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=titancodexd&show_icons=true&theme=dark&locale=en" alt="titancodexd" />
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=titancodexd&show_icons=true&theme=dark&locale=en&layout=compact" alt="titancodexd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=titancodexd&show_icons=true&theme=dark&locale=en&layout=compact" alt="titancodexd" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=titancodexd&show_icons=true&theme=dark&locale=en" alt="titancodexd" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titancodexd&theme=dark" alt="titancodexd" /></p>
 
 
 
