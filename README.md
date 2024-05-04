@@ -43,7 +43,7 @@
 </div>
 
 
-<p align = "center"><img width = "300" src="https://github-readme-stats.vercel.app/api/top-langs?username=titancodexd&show_icons=true&theme=dark&locale=en&layout=compact" alt="titancodexd" /></p>
+<p><img align = "center" width = "300" src="https://github-readme-stats.vercel.app/api/top-langs?username=titancodexd&show_icons=true&theme=dark&locale=en&layout=compact" alt="titancodexd" /></p>
 
 <hr>
 
