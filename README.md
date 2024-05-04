@@ -32,20 +32,16 @@
 
 <div style="display: inline-block;">
     <p style="margin-bottom: 0;">
-        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=titancodexd&theme=dark" alt="titancodexd" />
+        <img align="right" width = "300" src="https://github-readme-streak-stats.herokuapp.com/?user=titancodexd&theme=dark" alt="titancodexd" />
     </p>
 </div>
   
 <div style="display: inline-block; margin-left: 20px;">
     <p style="margin-bottom: 0;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=titancodexd&show_icons=true&theme=dark&locale=en" alt="titancodexd" />
+        <img align="left" width = "300" src="https://github-readme-stats.vercel.app/api?username=titancodexd&show_icons=true&theme=dark&locale=en" alt="titancodexd" />
     </p>
 </div>
 
-
-<div style="margin-top: 20px;">
-    <hr>
-</div>
 
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=titancodexd&show_icons=true&theme=dark&locale=en&layout=compact" alt="titancodexd" /></p>
 
