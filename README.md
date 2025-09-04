@@ -24,6 +24,5 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Wesley_Beatz)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/wesleyxd#0000)
 
-## 👨‍💻 All of my projects are available at [https://portfolio-wesley-santos.netlify.app](https://portfolio-wesley-santos.netlify.app)
-
+## 👨‍💻 All of my projects are available at [Portfolio !📑](https://portfolio-wesley-santos.netlify.app)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
