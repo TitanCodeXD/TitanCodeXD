@@ -29,9 +29,3 @@
 
 ## 👨‍💻 All of my projects are available at [Portfolio !📑](https://portfolio-wesley-santos.netlify.app)
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/> -->
-
-<style>
-h2{
-  font-size: "50px";
-}
-</style>
