@@ -8,11 +8,14 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=titancodexd&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Wesley github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titancodexd&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
 
-<!--<p align='left'>
-  #Skills
-</p>-->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,js,ts,react,redux,aws,firebase,express,sqlite,mongodb,nodejs,vscode,vite,vercel,notion,vscode,ubuntu,r,py,postman,git,github,figma)](https://skillicons.dev)
+<div align='left'
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=9fb2e0&size=20&font=Fira+Code&pause=1000&repeat=false&width=200&height=35&lines=💻Technologies:)](https://git.io/typing-svg)
+
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,js,ts,react,redux,tailwind,aws,firebase,express,prisma,sqlite,mongodb,nodejs,vscode,vite,vercel,nextjs,notion,vscode,ubuntu,r,py,postman,git,github,figma)](https://skillicons.dev)
 
 <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=titancodexd&bg_color=0d1117&color=9fb2e0&line=9fb2e0&point=7e98d5&area=true&hide_border=true)-->
 
@@ -26,3 +29,9 @@
 
 ## 👨‍💻 All of my projects are available at [Portfolio !📑](https://portfolio-wesley-santos.netlify.app)
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/> -->
+
+<style>
+h2{
+  font-size: "50px";
+}
+</style>
