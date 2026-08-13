@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=TitanCodeXD&layout=compact&langs_count=8&theme=darcula">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=TitanCodeXD&layout=compact&langs_count=4&theme=darcula" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=TitanCodeXD&layout=compact&langs_count=6&theme=darcula" alt="GitHub Stats" />
   </a>
 </p>
 
