@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,js,ts,react,redux,tailwind,aws,firebase,express,prisma,sqlite,postgres,mongodb,nodejs,nestjs,jest,redis,vite,vercel,nextjs,notion,vscode,docker,ubuntu,r,py,postman,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,js,ts,react,redux,tailwind,aws,firebase,express,prisma,sqlite,postgres,mongodb,nodejs,nestjs,jest,redis,vite,vercel,nextjs,notion,vscode,docker,ubuntu,r,py,postman,git,github,figma,sass)](https://skillicons.dev)
 
 </div>
 
