@@ -22,12 +22,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=TitanCodeXD&layout=compact&langs_count=10&theme=darcula">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=TitanCodeXD&layout=donut&langs_count=10&theme=darcula">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TitanCodeXD&layout=compact&langs_count=10&theme=darcula)](https://github-stats-extended.vercel.app/api/top-langs?username=TitanCodeXD&layout=compact&langs_count=10&theme=darcula&cache_seconds=1800)
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=TitanCodeXD&layout=donut&langs_count=10&theme=darcula" alt="Top Langs">
+
   </a>
 </p>
-
 
 
 <!--
