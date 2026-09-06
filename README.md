@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <h3>👨‍💻 Todos os meus projetos estão disponíveis no meu <a href="https://portfolio-wesley-santos.netlify.app">Portfólio 📑</a></h3>
+  <h3>👨‍💻 Também tenho projeto disponíveis no meu <a href="https://portfolio-wesley-santos.netlify.app">Portfólio 📑</a></h3>
 </p>
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/> -->
